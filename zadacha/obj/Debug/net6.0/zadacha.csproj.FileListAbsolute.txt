@@ -1,0 +1,15 @@
+C:\Users\79191\Desktop\Final_task\zadacha\bin\Debug\net6.0\zadacha.exe
+C:\Users\79191\Desktop\Final_task\zadacha\bin\Debug\net6.0\zadacha.deps.json
+C:\Users\79191\Desktop\Final_task\zadacha\bin\Debug\net6.0\zadacha.runtimeconfig.json
+C:\Users\79191\Desktop\Final_task\zadacha\bin\Debug\net6.0\zadacha.dll
+C:\Users\79191\Desktop\Final_task\zadacha\bin\Debug\net6.0\zadacha.pdb
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.csproj.AssemblyReference.cache
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfoInputs.cache
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfo.cs
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.dll
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\refint\zadacha.dll
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.pdb
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\zadacha.genruntimeconfig.cache
+C:\Users\79191\Desktop\Final_task\zadacha\obj\Debug\net6.0\ref\zadacha.dll
